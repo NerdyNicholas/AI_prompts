@@ -33,4 +33,6 @@ Example:
 
 Check TLS cert expiration on a remote host. One-liner, no script, minimal explanation.
 
+and
 
+Is this safe on a FIPS-enabled RHEL system with SELinux enforcing? If not, fix it.
